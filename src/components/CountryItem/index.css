@@ -1,0 +1,22 @@
+.country-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 7px 10px;
+  border: 1px solid #334155;
+  /* border-radius: 5px; */
+}
+.Visited {
+  background-color: transparent;
+  padding: 5px 10px;
+  color: #94a3b8;
+  border: none;
+  border-radius: 5px;
+}
+.Visit {
+  background-color: #3b82f6;
+  padding: 5px 10px;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+}
